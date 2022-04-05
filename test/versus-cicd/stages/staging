@@ -1,0 +1,4 @@
+namespace = versus-staging
+hostname = -staging
+back-version = 1.4
+front-version = 1.2

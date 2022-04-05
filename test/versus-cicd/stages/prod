@@ -1,0 +1,4 @@
+namespace = versus-prod
+hostname =
+back-version = 1.5
+front-version = 1.3
